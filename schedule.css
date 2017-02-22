@@ -1,0 +1,32 @@
+table {
+  text-align: left;
+}
+th,td.box {
+  border-style:solid;
+  border-width:2px;
+  border-color:#250352;
+  height: 90px;
+  width: 100px
+}
+th {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+table{
+  border-style:solid;
+  border-width:2px;
+  border-color:#250352
+/*color pallete adapted from(http://www.colourlovers.com/palette/147921/Blue_Kitten)*/
+  color
+}
+tr.dark  {
+  background-color:#848D82/*dark*/
+}
+tr.light  {background-color:#FD6E8A/*light*/
+}
+tr.dark>td,th{
+  color:RGB(0,255,255);}
+td.box:hover{
+  background-color:#2C3B63;
+color:#ECE59A}
+body{background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3qf5BVEYxC65z_iFugljruL4Ob7yp4o0G2n2zZnoK6VpZ2gZpFQ")}
